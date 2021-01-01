@@ -2,11 +2,7 @@ body
 {
     color: rgb(18, 43, 184);
     text-align: center;
-<<<<<<< HEAD
     font-family: "Courier";
-}
-=======
-    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -16,7 +12,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid rgb(231, 25, 25);
+    border: 1px solid rgb(117, 115, 115);
     margin: 0 auto;
 }
 
@@ -24,4 +20,3 @@ body
 {
     font-size: 20px;
 }
->>>>>>> NuevaCabecera
